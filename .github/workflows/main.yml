@@ -10,4 +10,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - run: chmod +x soul
-    - run: sudo ./soul 91.108.13.2 32003 120
+    - run: sudo ./soul 91.108.17.53 32001 70
