@@ -1,4 +1,4 @@
-name: soul Attack
+soul: Soul Attack
 on: [push]
 jobs:
   soul:
